@@ -57,6 +57,12 @@ color: black;
 left: 20px;
 }
 
+p.ex3 {
+  border: 2px solid black;
+  outline-style: outset;
+  outline-color: grey;
+}
+
 a {
 text-decoration: none;
 outline: 0;
