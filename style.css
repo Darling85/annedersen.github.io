@@ -1,6 +1,6 @@
 
 body {
-  background-color: lightblue;
+  background-color: blue;
 }
 
 h1 {
@@ -15,7 +15,6 @@ li:hover a {
 }
 
 .active{
-   background-color:lightblue;
    text-decoration: bold;
 }
 
