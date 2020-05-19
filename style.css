@@ -6,7 +6,7 @@ font-size: 11pt;
 
 /*Hover state for top level links*/
 li:hover a {
-	color: #ff0000;
+	color: hsl(324, 100%, 65%);
 }
 
 .active{
@@ -21,7 +21,7 @@ li:hover a {
 /*----text stuff----*/
 h1{
 font-size: 30pt;
-color: #ff0000;
+color: hsl(324, 100%, 65%);
 font-weight:normal;
 display: inline; 
 }
@@ -33,7 +33,7 @@ font-weight:normal;
 }
 
 p{
-font-align: left;
+font-align: center;
 color: black;
 left: 20px;
 }
