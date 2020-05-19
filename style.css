@@ -1,8 +1,9 @@
 
+  
 h1 {
-	text-align: center;
   text-shadow: 5px 5px 5px lightpink;	
 letter-spacing: 4px;
+text-align: center;
 font-family: "times new roman";
 font-size: 10pt;
 }
