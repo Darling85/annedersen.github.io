@@ -1,5 +1,11 @@
 
-text-align: center;
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  text-align: center;
+}
 font-family: "times new roman";
 font-size: 11pt;
 }
@@ -10,7 +16,7 @@ li:hover a {
 }
 
 .active{
-   background-color:grey;
+   background-color:lightblue;
    text-decoration: bold;
 }
 
@@ -20,6 +26,7 @@ li:hover a {
 
 /*----text stuff----*/
 h1{
+text-align: center;
 font-size: 30pt;
 color: hsl(324, 100%, 65%);
 font-weight:normal;
@@ -27,12 +34,14 @@ display: inline;
 }
 
 h2{
+text-align: center;
 font-size: 14pt;
 left: 20px;
 font-weight:normal; 
 }
 
 p{
+text-align: center;
 font-align: center;
 color: black;
 left: 20px;
