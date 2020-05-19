@@ -10,7 +10,7 @@ font-size: 11pt;
 
 /*Hover state for top level links*/
 li:hover a {
-	color: #FFBA15;
+	color: #ff0000;
 }
 
 .active{
