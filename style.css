@@ -37,9 +37,9 @@ li:hover a {
 /*----text stuff----*/
 
 p.ex3 {
-  border: 2px solid black;
-  outline-style: outset;
-  outline-color: grey;
+  border: 2px solid pink;
+  outline-style: inset;
+  outline-color: orange;
 }
 
 h1{
