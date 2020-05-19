@@ -1,16 +1,18 @@
-
+h1 {
+  text-shadow: 5px 5px 5px lightpink;	
+letter-spacing: 4px;
 text-align: center;
 font-family: "times new roman";
-font-size: 11pt;
+font-size: 10pt;
 }
 
 /*Hover state for top level links*/
 li:hover a {
-	color: #ff0000;
+	color: hsl(324, 100%, 65%);
 }
 
 .active{
-   background-color:grey;
+	background-color: lightgrey;
    text-decoration: bold;
 }
 
@@ -20,20 +22,23 @@ li:hover a {
 
 /*----text stuff----*/
 h1{
+text-align: center;
 font-size: 30pt;
-color: #ff0000;
+color: hsl(324, 100%, 65%);
 font-weight:normal;
 display: inline; 
 }
 
 h2{
+text-align: center;
 font-size: 14pt;
 left: 20px;
 font-weight:normal; 
 }
 
 p{
-font-align: left;
+text-align: center;
+font-align: center;
 color: black;
 left: 20px;
 }
