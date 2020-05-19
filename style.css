@@ -4,8 +4,10 @@ body {
 }
 
 h1 {
+  text-shadow: 2px 2px white;	
+letter-spacing: 5px;
 p.inset {border-style: inset;}
-  text-align: center;
+text-align: center;
 font-family: "times new roman";
 font-size: 11pt;
 }
