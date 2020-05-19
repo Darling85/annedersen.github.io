@@ -1,5 +1,8 @@
 
-  
+  body {
+  background-color: #b3b3b3;
+}
+
 h1 {
   text-shadow: 5px 5px 5px lightpink;	
 letter-spacing: 4px;
