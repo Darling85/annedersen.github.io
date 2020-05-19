@@ -1,1 +1,54 @@
+body {
+  div {
+  background-color: green;
+  opacity: 0.8;
+}
+text-align: left;
+font-family: "helvetica neue";
+font-size: 11pt;
+}
+
+/*Hover state for top level links*/
+li:hover a {
+	color: #ff0000;
+}
+
+.active{
+   background-color:#FFBA15;
+   text-decoration: bold;
+}
+
+.active:hover{
+  color: black;
+}
+
+/*----text stuff----*/
+h1{
+font-size: 30pt;
+color: #ff0000;
+font-weight:normal;
+display: inline; 
+}
+
+h2{
+font-size: 14pt;
+left: 20px;
+font-weight:normal; 
+}
+
+p{
+font-align: left;
+color: black;
+left: 20px;
+}
+
+a {
+text-decoration: none;
+outline: 0;
+}
+
+.images{
+width:98%;
+padding-top:10px;
+}
 
