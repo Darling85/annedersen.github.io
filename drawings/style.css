@@ -10,7 +10,7 @@ img{
   padding: 10px
 }
 
-h3{	
+h2{	
 letter-spacing: 2px;
 text-align: center;
 font-family: "helvetica";
@@ -25,15 +25,6 @@ letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
 font-size: 15pt;
-}
-
-h2{
-  text-shadow: 10px 10px 10px grey;	
-letter-spacing: 2px;
-text-align: center;
-font-family: "times new roman";
-font-size: 15pt;
-	 text-decoration: bold;
 }
 
 
