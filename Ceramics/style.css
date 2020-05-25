@@ -1,23 +1,40 @@
- body {
-  background-color: grey;
-} 
 
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 h1 {
-  text-shadow: 5px 5px 5px lightpink;	
+  text-shadow: 10px 10px 10px grey;	
 letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
 font-size: 10pt;
 }
 
+h2 {
+  text-shadow: 10px 10px 10px grey;	
+letter-spacing: 2px;
+text-align: center;
+font-family: "times new roman";
+font-size: 15pt;
+}
+
 /*Hover state for top level links*/
 li:hover a {
-	color: hsl(324, 100%, 65%);
+	color: black;
+	text-shadow: 5px 5px 5px grey;	
+letter-spacing: 2px;
+text-align: center;
+font-family: "times new roman";
+font-size: 15pt;
 }
 
 .active{
-	background-color: #b3b3b3;
+	background-color: white;
    text-decoration: bold;
 }
 
@@ -26,10 +43,20 @@ li:hover a {
 }
 
 /*----text stuff----*/
+
+p.ex3 {
+  border: 2px black;
+  outline-style: inset;
+  outline-color: grey;
+  width: 100px;
+  height: 40px;
+  
+}
+
 h1{
 text-align: center;
 font-size: 30pt;
-color: hsl(324, 100%, 65%);
+color: black;
 font-weight:normal;
 display: inline; 
 }
@@ -56,8 +83,13 @@ outline: 0;
 .images{
 width:98%;
 padding-top:10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 }
 
   body {
-  background-color: #b3b3b3;
+  background-color: white;
 }
