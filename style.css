@@ -2,7 +2,7 @@
 
 
 h1 {
-  text-shadow: 5px 5px 5px grey;	
+  text-shadow: 10px 10px 10px grey;	
 letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
@@ -10,7 +10,7 @@ font-size: 10pt;
 }
 
 h2 {
-  text-shadow: 5px 5px 5px grey;	
+  text-shadow: 10px 10px 10px grey;	
 letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
@@ -19,7 +19,12 @@ font-size: 15pt;
 
 /*Hover state for top level links*/
 li:hover a {
-	color: hsl(324, 100%, 65%);
+	color: black;
+	text-shadow: 5px 5px 5px grey;	
+letter-spacing: 2px;
+text-align: center;
+font-family: "times new roman";
+font-size: 15pt;
 }
 
 .active{
