@@ -47,10 +47,10 @@ p.ex3 {
   
 }
 
-h1{
+headline h1{
 text-align: center;
 font-size: 30pt;
-color: hsl(324, 100%, 65%);
+color: black;
 font-weight:normal;
 display: inline; 
 }
