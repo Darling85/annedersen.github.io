@@ -7,15 +7,9 @@ letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
 font-size: 10pt;
+text-decoration: bold;
 }
 
-h2 {
-  text-shadow: 10px 10px 10px grey;	
-letter-spacing: 2px;
-text-align: center;
-font-family: "times new roman";
-font-size: 15pt;
-}
 
 /*Hover state for top level links*/
 li:hover a {
