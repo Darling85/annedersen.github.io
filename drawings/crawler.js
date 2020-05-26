@@ -48,7 +48,7 @@ function marqueeInit(config){
   style: { //default style object for marquee containers without configured style
 	'margin': '0 auto'
   },
-  direction: 'left',
+  direction: 'right',
   inc: 2, //default speed - pixel increment for each iteration of a marquee's movement
   mouse: 'pause' //default mouseover behavior ('pause' 'cursor driven' or false)
  }, dash, ie = false, oldie = 0, ie5 = false, iever = 0;
