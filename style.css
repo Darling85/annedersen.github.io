@@ -19,7 +19,7 @@ letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
 font-size: 25pt;
-text-decoration: bold;
+text-decoration: none;
 }
 
 .active{
@@ -44,7 +44,7 @@ p.ex3 {
 
 p{
 font-family: "times new roman";
-font-size: 14pt;
+font-size: 20pt;
 text-align: center;
 font-align: center;
 color: black;
