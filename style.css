@@ -49,7 +49,7 @@ font-size: 13pt;
 /*----text stuff----*/
 
 p.ex3 {
-  border: 4px lightpink;
+  border: 0px lightpink;
   outline-style: inset;
   outline-color: pink;
   width: 120px;
