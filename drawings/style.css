@@ -1,13 +1,19 @@
 
 
 
-img{
+  #art {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 100px;
-  width: 50px;
-  padding: 10px
+  height: 500px;
+  width: 250px;
+  padding: 10px 
+}	  
+	  
+  #flower {
+  width: 40px;
+  height: 40px;
+  background: url(http://dl.glitter-graphics.net/pub/23/23741ydl5zbmguz.gif border=0></marquee>) 0 0;
 }
 
 h2{	
