@@ -2,8 +2,11 @@
 
 
   #art {
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
   height: 250px;
-  width: 250px;
+  width: 450px;
   padding: 10px 
 }	  
 	  
