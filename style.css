@@ -18,13 +18,13 @@ text-shadow: 5px 5px 5px grey;
 letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
-font-size: 20pt;
+font-size: 25pt;
 text-decoration: bold;
 }
 
 .active{
 	background-color: white;
-   text-decoration: bold;
+   text-decoration: none;
 }
 
 .active:hover{
@@ -37,8 +37,8 @@ p.ex3 {
   border: 2px pink;
   outline-style: inset;
   outline-color: pink;
-  width: 100px;
-  height: 40px;
+  width: 120px;
+  height: 60px;
   
 }
 
