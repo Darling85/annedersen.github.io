@@ -1,5 +1,20 @@
 
+h2{	
+letter-spacing: 2px;
+text-align: center;
+font-family: "helvetica";
+font-size: 2pt;
+text-decoration: none;
 
+}
+
+h1{
+  text-shadow: 10px 10px 10px grey;	
+letter-spacing: 2px;
+text-align: center;
+font-family: "times new roman";
+font-size: 15pt;
+}
 
 h1{
   text-shadow: 10px 10px 10px grey;	
