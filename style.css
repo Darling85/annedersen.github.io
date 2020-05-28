@@ -22,7 +22,7 @@ h1{
 letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
-font-size: 15pt;
+font-size: 13pt;
 }
 
 
@@ -33,7 +33,7 @@ li:hover a {
 letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
-font-size: 15pt;
+font-size: 13pt;
 	 text-decoration: bold;
 }
 
@@ -64,7 +64,7 @@ font-size: 18pt;
 
 h1{
 text-align: center;
-font-size: 30pt;
+font-size: 20pt;
 color: black;
 font-weight:normal;
 display: inline; 
