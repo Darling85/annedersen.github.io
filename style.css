@@ -54,6 +54,11 @@ p.ex3 {
   outline-color: pink;
   width: 100px;
   height: 40px;
+text-shadow: 10px 10px 10px grey;	
+letter-spacing: 2px;
+text-align: center;
+font-family: "times new roman";
+font-size: 15pt;
   
 }
 
