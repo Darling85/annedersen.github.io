@@ -18,7 +18,7 @@
 
 
 h1{
-  text-shadow: 10px 10px 10px grey;	
+  text-shadow: 5px 5px 5px grey;	
 letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
@@ -54,7 +54,7 @@ p.ex3 {
   outline-color: pink;
   width: 120px;
   height: 60px;
-text-shadow: 10px 10px 10px black;	
+text-shadow: 5px 5px 5px black;	
 letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
