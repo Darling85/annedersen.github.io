@@ -49,16 +49,16 @@ font-size: 15pt;
 /*----text stuff----*/
 
 p.ex3 {
-  border: 2px lightpink;
+  border: 4px lightpink;
   outline-style: inset;
   outline-color: pink;
-  width: 100px;
-  height: 40px;
-text-shadow: 10px 10px 10px grey;	
+  width: 120px;
+  height: 60px;
+text-shadow: 10px 10px 10px black;	
 letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
-font-size: 15pt;
+font-size: 18pt;
   
 }
 
