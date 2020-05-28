@@ -1,11 +1,28 @@
 
+
+
+  #art {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 350px;
+  width: 600px;
+  padding: 10px 
+}	  
+	  
+  #flower {
+  width: 40px;
+  height: 40px;
+  background: url(http://dl.glitter-graphics.net/pub/23/23741ydl5zbmguz.gif border=0></marquee>) 0 0;
+}
+
 h2{	
-	text-shadow: 10px 10px 10px grey;
 letter-spacing: 2px;
 text-align: center;
-font-family: "times new roman";
-font-size: 20pt;
+font-family: "helvetica";
+font-size: 2pt;
 text-decoration: none;
+
 }
 
 h1{
@@ -16,20 +33,21 @@ font-family: "times new roman";
 font-size: 15pt;
 }
 
+
 /*Hover state for top level links*/
 li:hover a {
-color: black;
-text-shadow: 5px 5px 5px grey;	
+	color: black;
+	text-shadow: 5px 5px 5px grey;	
 letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
-font-size: 25pt;
-text-decoration: none;
+font-size: 15pt;
+	 text-decoration: bold;
 }
 
 .active{
 	background-color: white;
-   text-decoration: none;
+   text-decoration: bold;
 }
 
 .active:hover{
@@ -39,17 +57,30 @@ text-decoration: none;
 /*----text stuff----*/
 
 p.ex3 {
-  border: 2px pink;
+  border: 2px lightpink;
   outline-style: inset;
   outline-color: pink;
-  width: 200px;
-  height: 60px;
+  width: 100px;
+  height: 40px;
   
 }
 
+h1{
+text-align: center;
+font-size: 30pt;
+color: black;
+font-weight:normal;
+display: inline; 
+}
+
+h2{
+text-align: center;
+font-size: 14pt;
+left: 20px;
+font-weight:normal; 
+}
+
 p{
-font-family: "times new roman";
-font-size: 20pt;
 text-align: center;
 font-align: center;
 color: black;
@@ -64,6 +95,11 @@ outline: 0;
 .images{
 width:98%;
 padding-top:10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 }
 
   body {
