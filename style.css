@@ -34,12 +34,10 @@ letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
 font-size: 13pt;
-	 text-decoration: bold;
 }
 
 .active{
 	background-color: white;
-   text-decoration: bold;
 }
 
 .active:hover{
