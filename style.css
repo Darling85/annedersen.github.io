@@ -1,9 +1,10 @@
 
 h2{	
+	text-shadow: 10px 10px 10px grey;
 letter-spacing: 2px;
 text-align: center;
-font-family: "helvetica";
-font-size: 2pt;
+font-family: "times new roman";
+font-size: 20pt;
 text-decoration: none;
 }
 
@@ -11,7 +12,7 @@ h1{
   text-shadow: 10px 10px 10px grey;	
 letter-spacing: 2px;
 text-align: center;
-font-family: " helvetica";
+font-family: "times new roman";
 font-size: 15pt;
 }
 
