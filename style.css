@@ -37,7 +37,7 @@ font-size: 13pt;
 }
 
 .active{
-	background-color: white;
+	background-color: pink;
 }
 
 .active:hover{
