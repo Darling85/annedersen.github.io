@@ -59,6 +59,15 @@ text-align: center;
 font-family: "times new roman";
 font-size: 14pt;
 font-color: red;
+	
+	p.ex4 {
+
+text-shadow: 5px 5px 5px magenta;	
+letter-spacing: 2px;
+text-align: center;
+font-family: "times new roman";
+font-size: 14pt;
+font-color: red;
 
   
 }
