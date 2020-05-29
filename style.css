@@ -1,6 +1,8 @@
 
 
-
+body {
+  background-color: lightpink;
+}
   #art {
   display: block;
   margin-left: auto;
@@ -94,6 +96,3 @@ padding-top:10px;
 }
 }
 
-  body {
-  background-color: pink;
-}
