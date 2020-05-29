@@ -20,6 +20,12 @@ body {
   background: url(http://dl.glitter-graphics.net/pub/23/23741ydl5zbmguz.gif border=0></marquee>) 0 0;
 }
 
+  #welcometext {
+  width: 40px;
+  height: 40px;
+  background: url(https://github.com/anneohrlingdersen/Portfolio/blob/master/welcome.png?raw=true) 0 0;
+}
+
 
 h1{
   text-shadow: 5px 5px 5px grey;	
