@@ -5,6 +5,10 @@ body {
 
 .link { color: red; } 
 }
+
+a:visited {
+  color: pink;
+	
   #art {
   display: block;
   margin-left: auto;
