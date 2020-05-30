@@ -6,7 +6,7 @@
 }
 
 a:visited {
-  color: blue;
+  color: red;
 }
 	
   #art {
@@ -33,9 +33,9 @@ a:visited {
 
 h1{
   text-shadow: 5px 5px 5px red;	
-letter-spacing: 2px;
+letter-spacing: 5px;
 text-align: center;
-font-family: "helvetica";
+font-family: "times new roman";
 font-size: 20pt;
 font-color: red;
 }
