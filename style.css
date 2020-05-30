@@ -3,7 +3,7 @@
 body {
   background-color: pink;
 
-#link { color: red; } 
+.link { color: red; } 
 }
   #art {
   display: block;
@@ -26,7 +26,7 @@ body {
   background: url(https://github.com/anneohrlingdersen/Portfolio/blob/master/welcome.png?raw=true) 0 0;
 }
 
-#blood {
+.blood {
        color:silver;
        text-shadow:
        4px 4px 1px #300000,
