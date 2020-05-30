@@ -2,12 +2,14 @@
 
 body {
   background-color: pink;
+}
 
-.link { color: red; } 
+.link { color: red; 
 }
 
 a:visited {
   color: pink;
+}
 	
   #art {
   display: block;
