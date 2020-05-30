@@ -54,7 +54,7 @@ font-family: "times new roman";
 font-size: 13pt;
 }
 
-
+{
 .active:hover{
   color: black;
 }
@@ -73,6 +73,7 @@ text-align: center;
 font-family: "times new roman";
 font-size: 14pt;
 font-color: red;
+	}
 	
 	p.ex4 {
 
@@ -82,7 +83,8 @@ text-align: center;
 font-family: "times new roman";
 font-size: 14pt;
 font-color: red;
-
+}
+	
 h2{
 text-align: center;
 font-size: 14pt;
@@ -110,5 +112,5 @@ padding-top:10px;
   margin-right: auto;
   width: 50%;
 }
-}
+
 
