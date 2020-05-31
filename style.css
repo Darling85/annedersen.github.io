@@ -1,14 +1,14 @@
 
 
 body {
-  background-color: pink;
+  background-color:#ffe6ee;
 }
 
-.link { color: red; 
+.link { color: #e62e00; 
 }
 
 a:visited {
-  color: red;
+  color: #e62e00;
 }
 	
   #art {
@@ -34,19 +34,19 @@ a:visited {
 
 
 h1{
-  text-shadow: 5px 5px 5px magenta;	
-letter-spacing: 5px;
+  text-shadow: 5px 5px 5px #ff4d88;	
+letter-spacing: 8px;
 text-align: center;
 font-family: "times new roman";
 font-size: 30pt;
-color: red;
+color: #e62e00;
 font-weight: normal;
 }
 
 
 /*Hover state for top level links*/
 li:hover a {
-	color: red;
+	color: #e62e00;
 	text-shadow: 5px 5px 5px grey;	
 letter-spacing: 2px;
 text-align: center;
