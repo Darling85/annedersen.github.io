@@ -6,22 +6,22 @@ body {
 
 /* A link that has not been visited */
 a:link {
-    color: #e62e00;
+    color: #ff0000;
 	text-decoration: none;
 }
 /* A link that has been visited */
 a:visited {
-    color: #e62e00;
+    color: #ff0000;
 	text-decoration: none;
 }
 /* A link that is hovered on */
 a:hover {
-    color: #e62e00;
+    color: #ff0000;
 	text-decoration: none;
 }
 /* A link that is selected */
 a:active {
-    color:#ffe6ee;
+    color:#ff0000;
 	text-decoration: none;
 }
 	
@@ -40,20 +40,15 @@ a:active {
   background: url(http://dl.glitter-graphics.net/pub/23/23741ydl5zbmguz.gif border=0></marquee>) 0 0;
 }
 
-  #welcometext {
-  width: 40px;
-  height: 40px;
-  background: url(https://github.com/anneohrlingdersen/Portfolio/blob/master/welcome.png?raw=true) 0 0;
-}
 
 
 h1{
-  text-shadow: 5px 5px 5px magenta;	
+  text-shadow: 5px 5px 5px #ff80aa;	
 letter-spacing: 5px;
 text-align: center;
 font-family: "helvetica";
 font-size: 30pt;
-color: red;
+color: #ff0000;
 font-weight: normal;
 }
 
@@ -89,9 +84,7 @@ font-size: 14pt;
 font-color: red;
 	}
 	
-	p.ex4 {
-
-text-shadow: 5px 5px 5px magenta;	
+p.ex4 {text-shadow: 5px 5px 5px magenta;	
 letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
