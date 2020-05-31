@@ -7,18 +7,22 @@ body {
 /* A link that has not been visited */
 a:link {
     color: #e62e00;
+	text-decoration: none;
 }
 /* A link that has been visited */
 a:visited {
     color: #e62e00;
+	text-decoration: none;
 }
 /* A link that is hovered on */
 a:hover {
     color: #e62e00;
+	text-decoration: none;
 }
 /* A link that is selected */
 a:active {
     color:#ffe6ee;
+	text-decoration: none;
 }
 	
   #art {
@@ -47,7 +51,7 @@ h1{
   text-shadow: 5px 5px 5px magenta;	
 letter-spacing: 5px;
 text-align: center;
-font-family: "times new roman";
+font-family: "helvetica";
 font-size: 30pt;
 color: red;
 font-weight: normal;
