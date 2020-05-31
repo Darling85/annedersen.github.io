@@ -42,33 +42,17 @@ a:active {
 
 
 
+/*----text stuff----*/
+
 h1{
-  text-shadow: 5px 5px 5px #ff80aa;	
+text-shadow: 5px 5px 5px #ff80aa;	
 letter-spacing: 5px;
-text-align: center;
+text-align: left;
 font-family: "helvetica";
 font-size: 30pt;
 color: #ff0000;
 font-weight: normal;
 }
-
-
-/*Hover state for top level links*/
-li:hover a {
-	color: red;
-	text-shadow: 5px 5px 5px grey;	
-letter-spacing: 2px;
-text-align: center;
-font-family: "times new roman";
-font-size: 13pt;
-}
-
-{
-.active:hover{
-  color: red;
-}
-
-/*----text stuff----*/
 
 p.ex3 {
   border: 2px pink;
@@ -81,7 +65,7 @@ letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
 font-size: 14pt;
-font-color: red;
+font-color: #ff0000;
 	}
 	
 p.ex4 {text-shadow: 5px 5px 5px magenta;	
@@ -89,7 +73,7 @@ letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
 font-size: 14pt;
-font-color: red;
+font-color: #ff0000;
 }
 	
 h2{
@@ -97,7 +81,7 @@ text-align: center;
 font-size: 14pt;
 left: 20px;
 font-weight:normal;
-font-color: red;
+font-color: #ff0000;
 }
 
 p{
