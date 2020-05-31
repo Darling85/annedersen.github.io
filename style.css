@@ -1,14 +1,24 @@
 
 
 body {
-  background-color:#ffe6ee;
+  background-color: #ffe6ee;
 }
 
-.link { color: #e62e00; 
+/* A link that has not been visited */
+a:link {
+    color: #e62e00;
 }
-
+/* A link that has been visited */
 a:visited {
-  color: #e62e00;
+    color: #e62e00;
+}
+/* A link that is hovered on */
+a:hover {
+    color: #e62e00;
+}
+/* A link that is selected */
+a:active {
+    color:#ffe6ee;
 }
 	
   #art {
@@ -34,19 +44,19 @@ a:visited {
 
 
 h1{
-  text-shadow: 5px 5px 5px #ff4d88;	
-letter-spacing: 8px;
+  text-shadow: 5px 5px 5px magenta;	
+letter-spacing: 5px;
 text-align: center;
 font-family: "times new roman";
 font-size: 30pt;
-color: #e62e00;
+color: red;
 font-weight: normal;
 }
 
 
 /*Hover state for top level links*/
 li:hover a {
-	color: #e62e00;
+	color: red;
 	text-shadow: 5px 5px 5px grey;	
 letter-spacing: 2px;
 text-align: center;
