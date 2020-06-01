@@ -6,12 +6,12 @@ body {
 
 /* A link that has not been visited */
 a:link {
-    color: #ff0000;
+    color: #000000;
 	text-decoration: none;
 }
 /* A link that has been visited */
 a:visited {
-    color: #ff0000;
+    color: #000000;
 	text-decoration: none;
 }
 /* A link that is hovered on */
@@ -21,7 +21,7 @@ a:hover {
 }
 /* A link that is selected */
 a:active {
-    color:#ff0000;
+    color:#000000;
 	text-decoration: none;
 }
 	
@@ -75,13 +75,13 @@ padding-bottom: 50px;
 padding-left: 80px;
 }
 
-h3{
+h2{
 text-shadow: 5px 5px 5px #ff4d88;	
 letter-spacing: 10px;
 text-align: center;
 font-family: "helvetica";
 font-size: 20pt;
-color: #ff0000;
+color: #000000;
 font-weight: normal;
 }
 
@@ -96,7 +96,7 @@ letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
 font-size: 14pt;
-font-color: #ff0000;
+font-color: #000000;
 	}
 	
 p.ex4 {text-shadow: 5px 5px 5px magenta;	
