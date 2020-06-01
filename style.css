@@ -73,17 +73,10 @@ padding-right: auto;
 }
 
  #about {
-  height: 90px;
-  width: 470px;
+  height: 70px;
+  width: 500px;
 padding-top: auto;
 padding-right: auto;
-}
-
- #drip {
-  height: 50px;
-  width: 50px;
-margin-left: auto;
-  margin-right: auto;
 }
 /*----text stuff----*/
 h1{
