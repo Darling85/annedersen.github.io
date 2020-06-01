@@ -40,10 +40,10 @@ a:active {
   #rose {
   height: 200px;
   width: 450px;
-padding-top: 40px;
-padding-right: 90px;
+padding-top: 90px;
+padding-right: 0px;
 padding-bottom: 0px;
-padding-left: 0px;
+padding-left: 100px;
 }
 
  #title {
