@@ -61,7 +61,7 @@ font-size: 20pt;
 color: #ff0000;
 color: #000000;
 font-weight: normal;
-padding-top: 5px;
+padding-top: 15px;
 padding-right: 30px;
 padding-bottom: 50px;
 padding-left: 80px;
@@ -114,11 +114,4 @@ a {
 text-decoration: none;
 outline: 0;
 }
-.images{
-width:98%;
-padding-top:10px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+
