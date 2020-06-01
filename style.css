@@ -69,6 +69,20 @@ padding-top: auto;
 padding-right: auto;
 }
 
+ #shop {
+  height: 100px;
+  width: 300px;
+padding-top: auto;
+padding-right: auto;
+}
+
+ #about {
+  height: 100px;
+  width: 300px;
+padding-top: auto;
+padding-right: auto;
+}
+
  #drip {
   height: 50px;
   width: 50px;
