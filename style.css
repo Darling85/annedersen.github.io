@@ -54,6 +54,14 @@ padding-right: 30px;
 padding-bottom: 90px;
 padding-left: 10px;
 }
+
+ #drawings {
+  height: 100px;
+  width: 380px;
+padding-top: auto;
+padding-right: auto;
+}
+
  #drip {
   height: 50px;
   width: 50px;
