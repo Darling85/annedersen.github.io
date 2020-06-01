@@ -49,10 +49,8 @@ padding-left: 10px;
  #title {
   height: 120px;
   width: 460px;
-padding-top: 0px;
-padding-right: 30px;
-padding-bottom: 90px;
-padding-left: 10px;
+padding-right: auto;
+padding-left: auto;
 }
 
  #drawings {
