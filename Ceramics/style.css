@@ -26,7 +26,7 @@ a:active {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 350px;
+  height: 400px;
   width: 600px;
   padding: 10px 
 }	  
@@ -42,7 +42,7 @@ a:active {
   width: 450px;
 padding-top: 40px;
 padding-right: 30px;
-padding-bottom: 140px;
+padding-bottom: 200px;
 padding-left: 10px;
 }
 
@@ -63,8 +63,8 @@ padding-right: auto;
 }
 
  #ceramics {
-  height: 90px;
-  width: 340px;
+  height: 140px;
+  width: 3600px;
 padding-top: auto;
 padding-right: auto;
 }
