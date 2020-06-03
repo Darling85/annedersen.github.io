@@ -63,18 +63,13 @@ padding-right: auto;
 }
 
  #shop {
-  height: 80px;
-  width: 320px;
+  height: 60px;
+  width: 280px;
 padding-top: auto;
 padding-right: auto;
 }
 
- #about {
-  height: 30px;
-  width: 490px;
-padding-top: auto;
-padding-right: auto;
-}
+
 /*----text stuff----*/
 h1{
 text-shadow: 5px 5px 5px #ff4d88;
