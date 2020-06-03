@@ -33,15 +33,15 @@ a:active {
 
 	
   #underline {
-  height: 100px;
-  width: 450px;
+  height: 80px;
+  width: 420px;
   margin-left: auto;
   margin-right: auto;
 }
 
  #title {
-  height: 120px;
-  width: 500px;
+  height: 100px;
+  width: 450px;
 margin-left: auto;
   margin-right: auto;
 }
@@ -60,15 +60,15 @@ padding-top: auto;
 padding-right: auto;
 }
  #about {
-  height: 80px;
+  height: 100px;
   width: 150px;
 padding-top: auto;
 padding-right: auto;
 }
 
  #shop {
-  height: 80px;
-  width: 180px;
+  height: 100px;
+  width: 150px;
 padding-top: auto;
 padding-right: auto;
 }
