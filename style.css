@@ -30,12 +30,7 @@ a:active {
   width: 600px;
   padding: 10px 
 }	  
-	  
-  #flower {
-  width: 40px;
-  height: 40px;
-  background: url(http://dl.glitter-graphics.net/pub/23/23741ydl5zbmguz.gif border=0></marquee>) 0 0;
-}
+
 	
   #underline {
   height: 50px;
@@ -68,8 +63,8 @@ padding-right: auto;
 }
 
  #shop {
-  height: 40px;
-  width: 220px;
+  height: 80px;
+  width: 320px;
 padding-top: auto;
 padding-right: auto;
 }
