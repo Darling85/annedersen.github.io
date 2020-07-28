@@ -26,15 +26,13 @@ margin-left: auto;
  #arrowleft {
   height: 60px;
   width: 120px;
-margin-left:0;
-  margin-right: 100;
+float: left;
 }
 
  #arrowright {
   height: 60px;
   width: 120px;
-margin-left: 100;
-  margin-right:0;
+float: right;
 }
 
 
