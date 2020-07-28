@@ -23,11 +23,18 @@ margin-left: auto;
   margin-right: auto;
 }
 
- #arrow {
+ #arrowleft {
   height: 60px;
   width: 120px;
-margin-left: auto;
-  margin-right: auto;
+margin-left: 90;
+  margin-right: 10;
+}
+
+ #arrowright {
+  height: 60px;
+  width: 120px;
+margin-left: 10;
+  margin-right: 90;
 }
 
 
