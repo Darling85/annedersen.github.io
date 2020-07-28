@@ -1,1 +1,118 @@
 
+
+
+
+  #art {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height:400px;
+  width: 350px;
+  padding: 10px 
+}	  
+	  
+  #flower {
+  width: 40px;
+  height: 40px;
+}
+
+
+ #title {
+  height: 130px;
+  width: 350px;
+margin-left: auto;
+  margin-right: auto;
+}
+
+
+ #arrowleft {
+  height: 60px;
+  width: 120px;
+float: left;
+}
+
+
+ #arrowright {
+  height: 60px;
+  width: 120px;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+
+
+
+h1{
+  text-shadow: 10px 10px 10px grey;	
+letter-spacing: 2px;
+text-align: center;
+font-family: "times new roman";
+font-size: 15pt;
+font-weight: normal;
+}
+
+h2{	
+letter-spacing: 2px;
+text-align: center;
+font-family: "helvetica";
+font-size: 5pt;
+font-weight: normal;
+}
+
+
+/*Hover state for top level links*/
+li:hover a {
+	color: black;
+	text-shadow: 5px 5px 5px grey;	
+letter-spacing: 2px;
+text-align: center;
+font-family: "times new roman";
+font-size: 15pt;
+	 text-decoration: none;
+}
+
+.active{
+	background-color: white;
+   text-decoration: none;
+}
+
+.active:hover{
+  color: black;
+}
+
+/*----text stuff----*/
+
+p.ex3 {
+  border: 2px lightpink;
+  outline-style: inset;
+  outline-color: pink;
+  width: 100px;
+  height: 40px;
+  }
+
+
+p{
+text-align: center;
+font-align: center;
+color: black;
+left: 20px;
+}
+
+a {
+text-decoration: none;
+outline: 0;
+}
+
+.images{
+width:98%;
+padding-top:10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+}
+
+  body {
+  background-color: white;
+}
