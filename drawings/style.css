@@ -14,25 +14,27 @@
   width: 40px;
   height: 40px;
   background: url(http://dl.glitter-graphics.net/pub/23/23741ydl5zbmguz.gif border=0></marquee>) 0 0;
-}
+
 
  #title {
   height: 130px;
   width: 350px;
 margin-left: auto;
   margin-right: auto;
-}
+
 
  #arrowleft {
   height: 60px;
   width: 120px;
 float: left;
-}
+
 
  #arrowright {
   height: 60px;
   width: 120px;
-float: right;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
 }
 
 
