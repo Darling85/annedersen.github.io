@@ -26,15 +26,15 @@ margin-left: auto;
  #arrowleft {
   height: 60px;
   width: 120px;
-margin-left: 90;
-  margin-right: 10;
+margin-left:0;
+  margin-right: 100;
 }
 
  #arrowright {
   height: 60px;
   width: 120px;
-margin-left: 10;
-  margin-right: 90;
+margin-left: 100;
+  margin-right:0;
 }
 
 
