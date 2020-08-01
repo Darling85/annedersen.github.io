@@ -1,6 +1,19 @@
+h1{
+text-shadow: 5px 5px 5px grey;	
+letter-spacing: 2px;
+text-align: center;
+font-family: "helvetica";
+font-size: 15pt;
+font-weight: normal;
+}
 
-
-
+h2{	
+letter-spacing: 3px;
+text-align: center;
+font-family: "helvetica";
+font-size: 20pt;
+font-weight: normal;
+}
 
   #art {
   display: block;
@@ -40,24 +53,6 @@ float: left;
   float: right;
 }
 
-
-
-h1{
-text-shadow: 5px 5px 5px grey;	
-letter-spacing: 2px;
-text-align: center;
-font-family: "helvetica";
-font-size: 15pt;
-font-weight: normal;
-}
-
-h2{	
-letter-spacing: 3px;
-text-align: center;
-font-family: "helvetica";
-font-size: 20pt;
-font-weight: normal;
-}
 
 
 /*Hover state for top level links*/
