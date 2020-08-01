@@ -43,7 +43,7 @@ float: left;
 
 
 h1{
-  text-shadow: 5px 5px 5px grey;	
+text-shadow: 5px 5px 5px grey;	
 letter-spacing: 2px;
 text-align: center;
 font-family: "helvetica";
@@ -52,7 +52,7 @@ font-weight: normal;
 }
 
 h2{	
-letter-spacing: 2px;
+letter-spacing: 10px;
 text-align: center;
 font-family: "helvetica";
 font-size: 5pt;
