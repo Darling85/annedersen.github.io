@@ -21,7 +21,8 @@
 	<script type="text/javascript" src="moveobj.js"> </script>
 
 	    
-	    <script type="text/javascript">
+<script type="text/javascript" src="moveobj.js"> </script>
+<script type="text/javascript">
 
 /***********************************************
 * Floating image script- By Virtual_Max (http://www.geocities.com/siliconvalley/lakes/8620)
@@ -30,19 +31,19 @@
 ***********************************************/
 
 //Step 1: Define unique variable names depending on number of flying images (ie:3):
-var sad.gif
+var bubble.png, flyimage2, flyimage3
 
 function pagestart(){
 //Step 2: Using the same variable names as 1), add or delete more of the below lines (60=width, height=80 of image):
- bubble.png=new Chip("bubble.png",47,68);
- flyimage2=new Chip("bubble.png",47,68);
- flyimage3=new Chip("bubble.png",47,68);
+ flyimage1=new Chip("flyimage1",47,68);
+ flyimage2=new Chip("flyimage2",47,68);
+ flyimage3=new Chip("flyimage3",47,68);
 
 
 //Step 3: Using the same variable names as 1), add or delete more of the below lines:
-movechip("bubble.png");
-movechip("bubble.png");
-movechip("bubble.png");
+movechip("flyimage1");
+movechip("flyimage2");
+movechip("flyimage3");
 
 }
 
@@ -53,7 +54,7 @@ window.attachEvent("onload", pagestart)
 else if (document.getElementById)
 window.onload=pagestart
 
-</script>    
+</script>
 	    
    </head>
 	
@@ -90,19 +91,18 @@ window.onload=pagestart
 </div>
 	 </center> 
 <body>
-	
- <!-- Step 4: Define your flying images. For each image's ID tag, use the same variable names as 1) above -->
+<!-- Step 4: Define your flying images. For each image's ID tag, use the same variable names as 1) above -->
 
-<DIV ID="bubble.png" STYLE="position:absolute; left: -500px; width:47; height:68;">
+<DIV ID="flyimage1" STYLE="position:absolute; left: -500px; width:47; height:68;">
 <A HREF="http://dynamicdrive.com"><IMG SRC="bubble.png" BORDER=0></a>
 </DIV>
 
 <DIV ID="flyimage2" STYLE="position:absolute; left: -500px; width:47; height:68;">
-<A HREF="http://dynamicdrive.com"><IMG SRC="bubble.png" BORDER=0></a>
+<A HREF="http://dynamicdrive.com"><IMG SRC="test.gif" BORDER=0></a>
 </DIV>
 
 <DIV ID="flyimage3" STYLE="position:absolute; left: -500px; width:47; height:68;">
-<A HREF="http://dynamicdrive.com"><IMG SRC="bubble.png" BORDER=0></a>
+<A HREF="http://dynamicdrive.com"><IMG SRC="test.gif" BORDER=0></a>
 </DIV>
 			  
 	 
