@@ -39,7 +39,7 @@ float: left;
   float: right;
 }
 
-.footer {
+#footer {
    position: fixed;
    left: 100;
    bottom: 0;
