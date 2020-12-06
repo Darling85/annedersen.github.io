@@ -98,11 +98,10 @@ color: black;
 left: 20px;
 }
 
-.wrapper {
-    height: 300px;
-    width: 300px;
-    display: flex;
-    align-items: flex-end;
+.div-wrapper img {
+    position: absolute;
+    left: 0;
+    bottom: 0;
 }
 
 a {
