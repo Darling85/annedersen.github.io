@@ -114,17 +114,6 @@ padding-top:10px;
   width: 50%;
 }
 
-div.class-name {
-    position: fixed;
-    margin-top: -50px;
-    top: 100%;
-    left: 100%;
-    margin-left: -120px;
-    z-index: 11000;
-}
-div.class-name arrowleft{
-    width: 100px;
-}
 
   body {
   background-color: white;
