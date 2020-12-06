@@ -1,11 +1,9 @@
-
-
-  #art {
+#art {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 350px;
-  width: 650px;
+  height: 250px;
+  width: 550px;
   padding: 5px 
 }	  
 	  
@@ -55,7 +53,7 @@ h2{
 letter-spacing: 2px;
 text-align: center;
 font-family: "helvetica";
-font-size: 4pt;
+font-size: 5pt;
 font-weight: normal;
 }
 
@@ -118,3 +116,15 @@ padding-top:10px;
   body {
   background-color: white;
 }
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
