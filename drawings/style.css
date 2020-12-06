@@ -98,11 +98,7 @@ color: black;
 left: 20px;
 }
 
-.div-wrapper img {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-}
+
 
 a {
 text-decoration: none;
