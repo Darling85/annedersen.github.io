@@ -98,6 +98,13 @@ color: black;
 left: 20px;
 }
 
+.wrapper {
+    height: 300px;
+    width: 300px;
+    display: flex;
+    align-items: flex-end;
+}
+
 a {
 text-decoration: none;
 outline: 0;
