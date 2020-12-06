@@ -2,11 +2,11 @@
 
   #art {
   display: block;
-  margin-left: 0%;
-  margin-right: 0%;
+  margin-left: auto%;
+  margin-right: auto%;
   height: 250px;
   width: 550px;
-  padding: 1px 
+  padding: 10px 
 }	  
 	  
   #flower {
@@ -55,7 +55,7 @@ h2{
 letter-spacing: 2px;
 text-align: center;
 font-family: "helvetica";
-font-size: 5pt;
+font-size: 4pt;
 font-weight: normal;
 }
 
