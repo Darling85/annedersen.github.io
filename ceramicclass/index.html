@@ -72,38 +72,15 @@ You will learn useful techniques such as:
 	
 	
 	<center>
-  <title>Title of the document</title>
-    <style>
-      div {
-        margin-bottom: 10px;
-      }
-    </style>
-  </head>
-  <body>
-    <h2>SIGN UP NOW</h2>
-    <form action="mailto:annedersen@gmail.com" method="get" enctype="text/plain">    
-      <div>
-        <label for="name">Name:
-          <input type="text" name="name" id="name" />
-        </label>
-      </div>
-      <div>
-        <label for="email">Email:
-          <input type="text" name="email" id="email" />
-        </label>
-      </div>
-	    <div>
-        <label for="Phone">Phone:
-          <input type="text" Phone="Phone" id="Phone" />
-        </label>
-      </div>
-      <div>
-        <label>Comments:</label>
-        <br />
-        <textarea name="comments" rows="12" cols="35">Write a little message!</textarea>
-      </div>
-      <div>
-        <input type="submit" name="submit" value="Send"/>
+  <form enctype="text/plain" method="GET" action="mailto:webdesign@aboutguide.com">
+ <label for="firstName">Your First Name:</label>
+ <input type="text" id="firstName" name="first_name">
+ <label for="lastName"> Your Last Name:</label>
+ <input type="text" id="lastName" name="last_name">
+ <label for="messageBody">Comments:</label>
+ <textarea id="messageBody" rows="5" cols="30" name="comments"></textarea>
+ <input type="submit" value="Send">
+</form>
 </center>
 	  
 <br><br>
