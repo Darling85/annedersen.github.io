@@ -1,13 +1,34 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
+	  
+	  
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css">
    
 	  
 
-<center><img id="title" style="max-width:100%;height:auto;" img src="https://github.com/anneohrlingdersen/Portfolio/blob/master/ceramics.gif?raw=true"></center>  
+<center><img id="title" style="max-width:100%;height:auto;" img src="https://github.com/anneohrlingdersen/Portfolio/blob/master/ceramics.gif?raw=true"></center>  <style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+	  
+	  
     
 	<script language="JavaScript" src="dynlib.js"></script>
 <script language="JavaScript" src="bouncingimages1.js"></script>  
@@ -46,6 +67,22 @@
 	  <br>
 	  <br>
 	  <br>
+		  
+		  
+<h2>Images Side by Side</h2>
+<p>How to create side-by-side images with the CSS float property:</p>
+
+<div class="row">
+  <div class="column">
+    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
 	  
 
 	  <div class="center"> 
