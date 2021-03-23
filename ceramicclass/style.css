@@ -4,7 +4,7 @@ text-shadow: 0px 0px 0px; #d62929;
 letter-spacing: 2px;
 text-align: center;
 font-family: "helvetica";
-font-size: 15pt;
+font-size: 15vw;
 font-weight: normal;
 }
 
@@ -13,7 +13,7 @@ text-shadow: 0px 0px 0px; #d62929;
 letter-spacing: 3px;
 text-align: center;
 font-family: "helvetica";
-font-size: 20pt;
+font-size: 20vw;
 font-weight: normal;
 }
 
@@ -22,7 +22,7 @@ text-shadow: 0px 0px 0px; #d62929;
 letter-spacing: 3px;
 text-align: center;
 font-family: "helvetica";
-font-size: 15pt;
+font-size: 15vw;
 font-weight: normal;
 color: #FF0000;
 }
@@ -74,7 +74,7 @@ li:hover a {
 letter-spacing: 2px;
 text-align: center;
 font-family: "times new roman";
-font-size: 15pt;
+font-size: 15vw;
 	 text-decoration: none;
 }
 
