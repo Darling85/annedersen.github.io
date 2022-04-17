@@ -18,7 +18,7 @@ bouncingImages = new Object();
 bouncingImages.imgCount = 3;
 bouncingImages.imgWidth = 40;
 bouncingImages.imgHeight = 40;
-bouncingImages.imgSrc = 'superball.gif';
+bouncingImages.imgSrc = 'https://github.com/anneohrlingdersen/Portfolio/blob/master/Ceramics/drop2_grey_small.gif?raw=true';
 
 bouncingImages.frameRate = 30;
 
