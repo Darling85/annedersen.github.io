@@ -6,7 +6,7 @@ text-align: auto;
 font-family: "helvetica";
 font-size:2vw;
 font-weight: normal;
-color: ef8d6c;
+color:ef8d6c;
 }
 
 h2{	
@@ -16,7 +16,7 @@ text-align: auto;
 font-family: "helvetica";
 font-size:1.5vw;
 font-weight: normal;
-color: ef8d6c;
+color:ef8d6c;
 }
 
 h3{	
@@ -26,7 +26,7 @@ text-align: auto;
 font-family: "helvetica";
 font-size:1.0vw;
 font-weight: normal;
-color: ef8d6c;
+color:ef8d6c;
 }
 
   #art {
@@ -124,5 +124,5 @@ padding-top:10px;
 
 
   body {
-  background-color: fee7b4;
+  background-color:fee7b4;
 }
