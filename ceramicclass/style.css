@@ -38,6 +38,13 @@ font-size:1.0vw;
 font-weight: normal;
 color:#000000;
 }
+#textbox {
+  background-color:#F19D9D;
+  width: 300px;
+  border: 10px  #0000;
+  padding: 50px;
+  margin: 20px;
+}
   #art {
   display: block;
   margin-left: auto;
