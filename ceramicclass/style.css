@@ -38,7 +38,7 @@ font-size:1.0vw;
 font-weight: normal;
 color:#000000;
 }
-#textbox {
+ div {
   background-color:#F19D9D;
   width: 300px;
   border: 10px  #0000;
